@@ -1,42 +1,99 @@
 {{- define "main" }}
+
 <div class="profile-container">
-  <div class="slideshow-wrap">
-    <div class="slideshow">
-      <img src="{{ .Site.BaseURL }}images/profile.jpg" alt="Ishan Anand" class="slide active" id="slide1">
-      <img src="{{ .Site.BaseURL }}images/palk.jpg" alt="In the water" class="slide" id="slide2">
+
+  <!-- BIG CIRCULAR SLIDER -->
+  <div class="slider">
+
+    <div class="slides">
+
+      <img src="{{ .Site.BaseURL }}images/profile.jpg"
+           alt="Ishan Anand"
+           class="slide">
+
+      <img src="{{ .Site.BaseURL }}images/palk.jpg"
+           alt="In the water"
+           class="slide">
+
+      <!-- ADD MORE IMAGES LIKE THIS -->
+      <!--
+      <img src="{{ .Site.BaseURL }}images/photo3.jpg"
+           alt="Another photo"
+           class="slide">
+      -->
+
     </div>
-    <div class="slide-dots">
-      <span class="dot active" onclick="goToSlide(0)"></span>
-      <span class="dot" onclick="goToSlide(1)"></span>
-    </div>
+
   </div>
+
+  <!-- TEXT -->
   <div class="profile-text">
+
     <h1>Ishan Anand</h1>
-    <p class="subtitle">Assistant Professor of Economics | Department of Humanities & Social Sciences | IIT Delhi</p>
-    <p class="bio">I am an Assistant Professor of Economics at IIT Delhi. My research focuses on inequality, caste, agriculture, and development in India. I was a World Bank Robert S. McNamara Fellow at the University of Massachusetts Amherst.</p>
+
+    <p class="subtitle">
+      Assistant Professor of Economics |
+      Department of Humanities & Social Sciences |
+      IIT Delhi
+    </p>
+
+    <p class="bio">
+      I am an Assistant Professor of Economics at IIT Delhi.
+      My research focuses on inequality, caste, agriculture,
+      and development in India. I was a World Bank Robert S.
+      McNamara Fellow at the University of Massachusetts Amherst.
+    </p>
+
     <div class="social-links">
-      <a href="mailto:ianand@iitd.ac.in">✉ Email</a>
-      <a href="https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en" target="_blank">Google Scholar</a>
-      <a href="https://hss.iitd.ac.in/faculty/ishan-anand" target="_blank">IIT Delhi Profile</a>
+
+      <a href="mailto:ianand@iitd.ac.in">
+        ✉ Email
+      </a>
+
+      <a href="https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en"
+         target="_blank">
+        Google Scholar
+      </a>
+
+      <a href="https://hss.iitd.ac.in/faculty/ishan-anand"
+         target="_blank">
+        IIT Delhi Profile
+      </a>
+
     </div>
+
   </div>
+
 </div>
 
 <script>
-  let current = 0;
-  const slides = document.querySelectorAll('.slide');
-  const dots = document.querySelectorAll('.dot');
 
-  function goToSlide(n) {
-    slides[current].classList.remove('active');
-    dots[current].classList.remove('active');
-    current = n;
-    slides[current].classList.add('active');
-    dots[current].classList.add('active');
+document.addEventListener("DOMContentLoaded", function () {
+
+  const slides = document.querySelector(".slides");
+  const slideItems = document.querySelectorAll(".slide");
+
+  let index = 0;
+
+  function showSlide() {
+    slides.style.transform =
+      `translateX(-${index * 100}%)`;
   }
 
   setInterval(() => {
-    goToSlide((current + 1) % slides.length);
-  }, 4000);
+
+    index++;
+
+    if (index >= slideItems.length) {
+      index = 0;
+    }
+
+    showSlide();
+
+  }, 3500);
+
+});
+
 </script>
+
 {{- end }}
