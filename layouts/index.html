@@ -1,0 +1,24 @@
+{{- define "main" }}
+<div class="profile-container">
+  <div class="profile-photos">
+    <div class="photo-wrap">
+      <img src="{{ .Site.BaseURL }}images/profile.jpg" alt="Ishan Anand" class="photo-circle">
+      <p class="photo-label">Ishan Anand</p>
+    </div>
+    <div class="photo-wrap">
+      <img src="{{ .Site.BaseURL }}images/palk.jpg" alt="Swimming" class="photo-circle">
+      <p class="photo-label">In the water</p>
+    </div>
+  </div>
+  <div class="profile-text">
+    <h1>Ishan Anand</h1>
+    <p class="subtitle">Assistant Professor of Economics | Department of Humanities & Social Sciences | IIT Delhi</p>
+    <p class="bio">I am an Assistant Professor of Economics at IIT Delhi. My research focuses on inequality, caste, agriculture, and development in India. I was a World Bank Robert S. McNamara Fellow at the University of Massachusetts Amherst.</p>
+    <div class="social-links">
+      <a href="mailto:ianand@iitd.ac.in">✉ Email</a>
+      <a href="https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en" target="_blank">Google Scholar</a>
+      <a href="https://hss.iitd.ac.in/faculty/ishan-anand" target="_blank">IIT Delhi Profile</a>
+    </div>
+  </div>
+</div>
+{{- end }}

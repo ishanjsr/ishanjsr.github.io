@@ -1,0 +1,74 @@
+/* ── Two photo homepage layout ── */
+.profile-container {
+  max-width: 860px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.profile-photos {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-bottom: 2rem;
+}
+
+.photo-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.photo-circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+  border: 3px solid #e8e8f0;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.10);
+}
+
+.photo-label {
+  font-size: 0.85rem;
+  color: #888;
+  margin: 0;
+}
+
+.profile-text h1 {
+  font-size: 2rem;
+  margin-bottom: 0.4rem;
+}
+
+.subtitle {
+  color: #555;
+  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+}
+
+.bio {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: #333;
+  max-width: 640px;
+  margin: 0 auto 1.5rem;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.social-links a {
+  color: #1a56a0;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
