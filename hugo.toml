@@ -18,22 +18,10 @@ buildExpired = false
   [params.profileMode]
     enabled = true
     title = "Ishan Anand"
-    subtitle = "Assistant Professor of Economics\nDepartment of Humanities & Social Sciences\nIndian Institute of Technology Delhi"
+    subtitle = "Assistant Professor of Economics | Department of Humanities & Social Sciences | Indian Institute of Technology Delhi"
     imageUrl = "images/profile.jpg"
     imageWidth = 160
     imageHeight = 160
-
-    [[params.profileMode.buttons]]
-      name = "Research"
-      url = "/research"
-
-    [[params.profileMode.buttons]]
-      name = "Blog"
-      url = "/blog"
-
-    [[params.profileMode.buttons]]
-      name = "Swim Stuff"
-      url = "/swim-stuff"
 
   [[params.socialIcons]]
     name = "email"
