@@ -1,84 +1,71 @@
-{{- define "main" }}
+.profile-container {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
 
-<div class="profile-container">
+.slider {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 1.5rem;
+  border: 3px solid #e8e8f0;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+}
 
-  <!-- SLIDESHOW -->
-  <div class="slider">
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
 
-    <img src="{{ .Site.BaseURL }}images/profile.jpg"
-         class="slide active"
-         alt="Profile">
+.slide.active {
+  opacity: 1;
+}
 
-    <img src="{{ .Site.BaseURL }}images/palk.jpg"
-         class="slide"
-         alt="Swimming">
+.profile-text h1 {
+  font-size: 2rem;
+  margin-bottom: 0.4rem;
+}
 
-  </div>
+.subtitle {
+  color: #555;
+  font-size: 0.95rem;
+  margin-bottom: 1.2rem;
+}
 
-  <!-- TEXT -->
-  <div class="profile-text">
+.bio {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: #333;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+}
 
-    <h1>Ishan Anand</h1>
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
 
-    <p class="subtitle">
-      Assistant Professor of Economics |
-      Department of Humanities & Social Sciences |
-      IIT Delhi
-    </p>
+.social-links a {
+  color: #1a56a0;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
 
-    <p class="bio">
-      I am an Assistant Professor of Economics at IIT Delhi.
-      My research focuses on inequality, caste, agriculture,
-      and development in India.
-    </p>
-
-    <div class="social-links">
-
-      <a href="mailto:ianand@iitd.ac.in">
-        ✉ Email
-      </a>
-
-      <a href="https://scholar.google.com/"
-         target="_blank">
-        Google Scholar
-      </a>
-
-      <a href="https://hss.iitd.ac.in/"
-         target="_blank">
-        IIT Delhi Profile
-      </a>
-
-    </div>
-
-  </div>
-
-</div>
-
-<script>
-
-document.addEventListener("DOMContentLoaded", function () {
-
-  const slides =
-    document.querySelectorAll(".slide");
-
-  let current = 0;
-
-  setInterval(() => {
-
-    slides[current].classList.remove("active");
-
-    current++;
-
-    if (current >= slides.length) {
-      current = 0;
-    }
-
-    slides[current].classList.add("active");
-
-  }, 3000);
-
-});
-
-</script>
-
-{{- end }}
+.social-links a:hover {
+  text-decoration: underline;
+}
