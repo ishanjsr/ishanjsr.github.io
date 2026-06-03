@@ -1,46 +1,38 @@
 {{- define "main" }}
 
-<div class="my-homepage">
+<div class="profile-container">
 
-  <!-- SLIDER -->
-  <div class="my-slider-wrap">
+  <!-- SLIDESHOW -->
+  <div class="slider">
 
-    <div class="my-slider">
+    <img src="{{ .Site.BaseURL }}images/profile.jpg"
+         class="slide active"
+         alt="Profile">
 
-      <div class="my-slides">
-
-        <img src="{{ .Site.BaseURL }}images/profile.jpg"
-             class="my-slide"
-             alt="Profile">
-
-        <img src="{{ .Site.BaseURL }}images/palk.jpg"
-             class="my-slide"
-             alt="Swimming">
-
-      </div>
-
-    </div>
+    <img src="{{ .Site.BaseURL }}images/palk.jpg"
+         class="slide"
+         alt="Swimming">
 
   </div>
 
   <!-- TEXT -->
-  <div class="my-profile-text">
+  <div class="profile-text">
 
     <h1>Ishan Anand</h1>
 
-    <p class="my-subtitle">
+    <p class="subtitle">
       Assistant Professor of Economics |
       Department of Humanities & Social Sciences |
       IIT Delhi
     </p>
 
-    <p class="my-bio">
+    <p class="bio">
       I am an Assistant Professor of Economics at IIT Delhi.
       My research focuses on inequality, caste, agriculture,
       and development in India.
     </p>
 
-    <div class="my-social-links">
+    <div class="social-links">
 
       <a href="mailto:ianand@iitd.ac.in">
         ✉ Email
@@ -67,29 +59,21 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   const slides =
-    document.querySelector(".my-slides");
+    document.querySelectorAll(".slide");
 
-  const slideItems =
-    document.querySelectorAll(".my-slide");
-
-  let index = 0;
-
-  function updateSlider() {
-
-    slides.style.transform =
-      `translateX(-${index * 50}%)`;
-
-  }
+  let current = 0;
 
   setInterval(() => {
 
-    index++;
+    slides[current].classList.remove("active");
 
-    if (index >= slideItems.length) {
-      index = 0;
+    current++;
+
+    if (current >= slides.length) {
+      current = 0;
     }
 
-    updateSlider();
+    slides[current].classList.add("active");
 
   }, 3000);
 
