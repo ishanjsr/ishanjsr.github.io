@@ -19,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.124.0
+      HUGO_VERSION: 0.162.1
     steps:
       - name: Install Hugo CLI
         run: |
@@ -34,7 +34,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Build with Hugo
         env:
