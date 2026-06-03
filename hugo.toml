@@ -18,7 +18,7 @@ buildExpired = false
   [params.profileMode]
     enabled = true
     title = "Ishan Anand"
-    subtitle = "Assistant Professor of Economics | Department of Humanities & Social Sciences | Indian Institute of Technology Delhi"
+    subtitle = "Assistant Professor of Economics | Department of Humanities & Social Sciences | IIT Delhi\n\nI am an Assistant Professor of Economics at IIT Delhi. I work on inequality, climate change, history of economic thought, and development. I am also into open water swimming."
     imageUrl = "images/profile.jpg"
     imageWidth = 160
     imageHeight = 160
@@ -28,7 +28,7 @@ buildExpired = false
     url = "mailto:ianand@iitd.ac.in"
 
   [[params.socialIcons]]
-    name = "google-scholar"
+    name = "googlescholar"
     url = "https://scholar.google.com/citations?user=t5YYVSUAAAAJ&hl=en"
 
   ShowReadingTime = true
