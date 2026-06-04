@@ -3,7 +3,7 @@ title: "Research"
 description: "Publications, working papers, and ongoing projects"
 ---
 
-My research focuses on **inequality, climate change, agriculture, and development** in India.
+My research focuses on inequality, climate change, agriculture, history of economic thought and development.
 
 ---
 
@@ -46,10 +46,10 @@ Anand, Ishan and Moon, Saket, Economics of Caste in Ambedkar (October 08, 2024).
 
 - ‘Indigenous Knowledge and Customary Practices in Building Community-Oriented and Ecologically Sustainable Development Policies and Programs: A Study of the Patkai Region in Northeast India’ - ICSSR 2024 (Co-PI)
 
-- **New Faculty Seed Grant** - IIT Delhi 2022 (PI)
+- New Faculty Seed Grant - IIT Delhi 2022 (PI)
 
-- **World Bank Robert S. McNamara Fellowship** — University of Massachusetts Amherst, 2016–17
+- World Bank Robert S. McNamara Fellowship — University of Massachusetts Amherst, 2016–17
 
-- **Ruddar Datt Memorial Best Paper Award** — Indian Society of Labour Economics, 2019
+- Ruddar Datt Memorial Best Paper Award — Indian Society of Labour Economics, 2019
 
-- **Junior Research Fellowship** — University Grants Commission, 2013
+- Junior Research Fellowship — University Grants Commission, 2013
