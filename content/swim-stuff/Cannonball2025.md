@@ -1,7 +1,7 @@
 ---
 title: "Cannonball 2025, Gurgaon"
 description: "10k"
-date: 2026-05-09
+date: 2025-09-21
 draft: false
 cover:
   image: "/images/swim/cb1.jpeg"

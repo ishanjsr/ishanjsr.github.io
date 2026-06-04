@@ -1,7 +1,7 @@
 ---
 title: "Kochi River Swimathon"
 description: "10k"
-date: 2026-05-09
+date: 2026-04-12
 draft: false
 cover:
   image: "/images/swim/Kochi1.jpeg"

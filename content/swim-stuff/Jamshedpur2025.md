@@ -1,7 +1,7 @@
 ---
 title: "TASF Jamshedpur"
 description: "5k"
-date: 2026-05-09
+date: 2025-12-15
 draft: false
 cover:
   image: "/images/swim/jsr1.jpeg"

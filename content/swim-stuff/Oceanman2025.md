@@ -1,7 +1,7 @@
 ---
 title: "Oceanman"
 description: "5k"
-date: 2026-05-09
+date: 2025-10-26
 draft: false
 cover:
   image: "/images/swim/oceanman1.jpeg"

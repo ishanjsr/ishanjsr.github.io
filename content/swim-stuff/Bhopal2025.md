@@ -1,7 +1,7 @@
 ---
 title: "Lakeman Bhopal"
 description: "5k"
-date: 2026-05-09
+date: 2025-10-05
 draft: false
 cover:
   image: "/images/swim/Bhopal.jpeg"
