@@ -1,6 +1,6 @@
 ---
-title: " "
-description: " "
+title: "Articles"
+description: "Short pieces published in media and online platforms."
 ---
 
 - [What does the Data from the Household Consumer Expenditure Survey 2022-23 tell us?](https://www.theindiaforum.in/public-policy/household-consumption-expenditure-survey-2022-23) (The India Forum, 2024)

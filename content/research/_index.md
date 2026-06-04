@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Publications, working papers, and ongoing projects"
+description: "Publications, working papers, and projects"
 ---
 
 My research focuses on inequality, climate change, agriculture, history of economic thought and development.
