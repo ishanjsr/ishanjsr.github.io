@@ -55,3 +55,8 @@ buildExpired = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.cover]
+  linkFullImages = false
+  thumbnailInList = true
+  responsiveImages = false
