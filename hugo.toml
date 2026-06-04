@@ -43,8 +43,8 @@ buildExpired = false
 
 [[menu.main]]
   identifier = "PopularWri"
-  name = "popular-writings"
-  url = "/popular-writings/"
+  name = "Popular-writings"
+  url = "/Popular-writings/"
   weight = 30
 
 [[menu.main]]
