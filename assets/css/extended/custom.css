@@ -72,7 +72,9 @@
 
 .post-single img,
 .post-content img {
-  max-height: 350px;
-  object-fit: cover;
-  width: 100%;
+  max-width: 50%;
+  max-height: 250px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
 }
