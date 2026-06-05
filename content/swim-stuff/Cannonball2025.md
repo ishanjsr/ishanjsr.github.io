@@ -15,9 +15,6 @@ cover:
 Write your story here. As much text as you want.
 Photos go anywhere in the story like this:
 
-![Start of the race](/images/swim/cannonball2.jpg)
-
-More text continues here.
 
 ![Finishing touch](/images/swim/cannonball1.png)
 

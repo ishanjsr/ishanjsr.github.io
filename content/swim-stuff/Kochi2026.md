@@ -4,7 +4,7 @@ description: "10k"
 date: 2026-04-12
 draft: false
 cover:
-  image: "/images/swim/Kochi2.jpeg"
+  image: "/images/swim/Kochi1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
@@ -17,9 +17,7 @@ Photos go anywhere in the story like this:
 
 ![Start of the race](/images/swim/Kochi3.jpeg)
 
-More text continues here.
 
-![Finishing touch](/images/swim/Kochi1.jpeg)
 
 ## The Race
 
