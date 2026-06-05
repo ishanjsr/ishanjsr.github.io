@@ -4,9 +4,9 @@ description: "10k"
 date: 2025-09-21
 draft: false
 cover:
-  image: "/images/swim/cb1.jpeg"
+  image: "/images/swim/cannonball.jpeg"
   alt: " "
-  caption: "The relay team"
+  caption: " "
   relative: false
 ---
 
@@ -15,11 +15,11 @@ cover:
 Write your story here. As much text as you want.
 Photos go anywhere in the story like this:
 
-![Start of the race](/images/swim/cb2.jpeg)
+![Start of the race](/images/swim/cannonball2.jpg)
 
 More text continues here.
 
-![Finishing touch](/images/swim/cb3.jpeg)
+![Finishing touch](/images/swim/cannonball1.jpeg)
 
 ## The Race
 
@@ -31,4 +31,3 @@ Final thoughts, what worked, what to fix.
 
 ---
 
-{{< youtube VIDEO_ID_HERE >}}

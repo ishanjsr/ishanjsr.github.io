@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-12-15
 draft: false
 cover:
-  image: "/images/swim/jsr1.jpeg"
+  image: "/images/swim/Jamshedpur1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
@@ -15,11 +15,11 @@ cover:
 Write your story here. As much text as you want.
 Photos go anywhere in the story like this:
 
-![Start of the race](/images/swim/jsr2.jpeg)
+![Start of the race](/images/swim/Jamshedpur2.jpg)
 
 More text continues here.
 
-![Finishing touch](/images/swim/jsr3.jpeg)
+![Finishing touch](/images/swim/Jamshedpur3.jpg)
 
 ## The Race
 
@@ -30,5 +30,3 @@ Keep writing the story...
 Final thoughts, what worked, what to fix.
 
 ---
-
-{{< youtube VIDEO_ID_HERE >}}
