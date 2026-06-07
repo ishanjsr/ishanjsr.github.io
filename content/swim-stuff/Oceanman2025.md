@@ -4,19 +4,28 @@ description: "5k"
 date: 2025-10-26
 draft: false
 cover:
-  image: "/images/swim/Oceanman1.png"
+  image: "/images/swim/oceanman1.jpeg"
   alt: " "
   caption: "The relay team"
   relative: false
 ---
 
-## Oceanman India 2025 - DNF for the event!
+## Oceanman Goa, 2025
 
-Write your story here. As much text as you want.
-Photos go anywhere in the story like this:
+It was quite an experience walking in the rain to reach the venue at 6 am in the dark, only for the race to be cancelled on the first day because of bad weather.
 
-![Start of the race](/images/swim/Oceanman2.png)
+The next day, it was a wonderful experience at the start line, standing with so many eminent swimmers and newbies, singing the national anthem, and buzzing with anticipation. Loved every second of that experience. 
 
-More text continues here.
+![Start of the race](/images/swim/palk2.jpeg)
+
+I did one loop (supposed to be 2.5k) in 1 hour and 20 mins. Not really an ideal speed. 
+
+It was my first time racing with so many people bumping into me. Did not worry about that too much - a win in my books. 
+
+Unfortunately, the organisers had to cancel the race mid-swim! 
+
+
+![Finishing touch](/images/swim/palk3.jpeg)
 
 ---
+
