@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-10-26
 draft: false
 cover:
-  image: "/images/swim/Oceanman1.jpeg"
+  image: "/images/swim/Oceanman1.png"
   alt: " "
   caption: " "
   relative: false
@@ -20,7 +20,7 @@ It was quite an experience walking in the rain to reach the venue at 6 am in the
 
 The next day, it was a wonderful experience at the start line, standing with so many eminent swimmers (Olympians and Channel swimmers!) and newbies like me, singing the national anthem, and buzzing with anticipation. Loved every second of that experience. 
 
-![](/images/swim/Oceanman2.jpeg)
+![](/images/swim/Oceanman2.png)
 
 I did one loop (supposed to be 2.5k) in 1 hour and 20 mins. Not really an ideal speed. But again, pool speed doesnt get translated to open water speed.  
 

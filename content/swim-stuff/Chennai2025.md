@@ -4,7 +4,7 @@ description: "5k: DNF"
 date: 2025-06-15
 draft: false
 cover:
-  image: "/images/swim/Chennai1.jpeg"
+  image: "/images/swim/Chennai1.jpg"
   alt: " "
   caption: " "
   relative: false
@@ -32,7 +32,7 @@ Crossed the waves again, was practically swimming alone as everyone was far ahea
 
 The returning route was much better as I could swim straight for the shore - the buildings on the beach were easy to sight. I completed one loop, supposed to be 2.5 km, but I ended up doing 3.4 kms. I did not even think about going for the final loop - ran out of gas, and there was no confidence left. 
 
-![](/images/swim/Chennai2.jpeg)
+![](/images/swim/Chennai2.png)
 
 I learnt an important lesson: get as many open-water sessions as possible before an open-water race! That practice cannot be replicated on land or in a pool; Hydrate and fuel better; Check the kit - keep extra stuff handy on the beach. Even a swim buoy. Wear the googles under the cap - we can lose the caps in waves. 
 

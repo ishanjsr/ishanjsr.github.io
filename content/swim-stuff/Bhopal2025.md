@@ -4,7 +4,7 @@ description: "5k"
 date: 2025-10-05
 draft: false
 cover:
-  image: "/images/swim/Bhopal1.jpeg"
+  image: "/images/swim/Bhopal1.png"
   alt: " "
   caption: " "
   relative: false
@@ -27,7 +27,7 @@ Standing on the deck before the race, I didn't feel excited, scared, or nervous;
 Race started at about 7 am. Started swimming and felt like I was an insect in this giant washing machine - and it continued to feel more or less the same throughout. It became slightly easier towards the end, or did I just get used to it?! It was just hard work. Each stroke was a grind. 
  
 
-![](/images/swim/Bhopal3.jpeg)
+![](/images/swim/Bhopal3.jpg)
 
 My inability to swim in a straight line probably cost me 30 minutes or more. It was my first open water outing when I did not have a panic attack. Some disorientation, but no panic attack. 
 
