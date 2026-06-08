@@ -49,7 +49,7 @@ description: "Short pieces published in media and online platforms."
 
 - [Before Universal Basic Income, We Must First Get Social Spending Basics Right](https://thewire.in/economy/before-universal-basic-income-we-must-first-get-social-spending-basics-right) (The Wire, 2017)
 
-- [India’s non-MBBS healers](https://www.livemint.com/authors/ishan-anand) (Live Mint, 2016)
+- [India’s non-MBBS healers](https://www.livemint.com/Politics/vJsuOUFs7lQld8eJD49qHL/Indias-nonMBBS-healers.html) (Live Mint, 2016)
 
 - [Why PhDs want to be peons](https://www.livemint.com/Politics/FL93KP1b9OtQmNnDOJeNxI/Why-PhDs-want-to-be-peons.html) (Live Mint, 2016)
 

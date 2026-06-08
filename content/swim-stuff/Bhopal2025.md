@@ -29,6 +29,7 @@ Heavy rainfall all night, strong winds, and the lake was so much worse! Terribly
     allowfullscreen>
 </iframe>
 
+
 Standing on the deck before the race, I didn't feel excited, scared, or nervous; it was a feeling of nothingness. Just neutral emotions. Which I feel is a good thing! 
 
 Race started at about 7 am. Started swimming and felt like I was an insect in this giant washing machine - and it continued to feel more or less the same throughout. It became slightly easier towards the end, or did I just get used to it?! It was just hard work. Each stroke was a grind. 
