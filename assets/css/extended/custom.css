@@ -38,7 +38,7 @@
 }
 
 .subtitle {
-  color: #555;
+  color: var(--secondary);
   font-size: 1.2rem;
   margin-bottom: 1.2rem;
 }
@@ -46,7 +46,7 @@
 .bio {
   font-size: 1.4rem;
   line-height: 1.75;
-  color: #333;
+  color: var(--content);
   max-width: 600px;
   margin: 0 auto 1.5rem;
 }
