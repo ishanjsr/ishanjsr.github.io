@@ -12,7 +12,7 @@ cover:
 
 ## TASF swimathon, Jamshedpur 2025
 
-A lake race in Jamshedpur in mid-December?! It was foggy and the water was cold!
+A lake race in Jamshedpur (my beautiful hometown) in mid-December?! It was foggy and the water was cold!
 
 My preparations were okay. Did a few 4ks in the run-up. 
 
