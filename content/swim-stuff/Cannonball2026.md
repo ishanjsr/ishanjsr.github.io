@@ -1,7 +1,7 @@
 ---
 title: "Cannonball 2026: A good bad race"
 description: "10k"
-date: 2025-09-27
+date: 2026-09-27
 draft: false
 cover:
   image: " "
