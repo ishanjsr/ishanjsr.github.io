@@ -4,9 +4,9 @@ description: "10k"
 date: 2026-09-27
 draft: false
 cover:
-  image: "/images/swim/cb2026.PNG"
+  image: "/images/swim/cb2026.png" 
   alt: " "
-  caption: " "
+  caption: "With Rajat, the 10k buddy "
   relative: false
 ---
 
