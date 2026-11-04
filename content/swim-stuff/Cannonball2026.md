@@ -4,7 +4,7 @@ description: "10k"
 date: 2026-09-27
 draft: false
 cover:
-  image: "/images/swim/cb26.PNG"
+  image: "/images/swim/cb2026.PNG"
   alt: " "
   caption: " "
   relative: false
