@@ -16,7 +16,8 @@ Most of us have a designated comfort food. It’s typically the one we grew up e
 
 This was the second edition of the swimathon organized by the Tata Steel Adventure Foundation. The race is held in Dimna Lake, just outside the city of Jamshedpur, surrounded by the Dalma hills. The hills covered by fog on all sides, and the lake in between, make for a stunning view. 
 
-![](/images/swim/jamshedpur_2026_3.jpeg")
+![](/images/swim/jamshedpur_2026_3.jpeg)
+
 
 We had an official practice session on 21 November. I could cover only 25 meters on my first attempt and had to return to the deck. It was cold! It was not brutally cold like it was in the first edition held in mid-December, but it was cold enough for someone who practices in a heated pool in Delhi. I decided not to swim-swim, but to just float around, do some backstroke and spend quality time in the lake. It helped. Eventually, I did about a 1k swim in the practice session. 
 
