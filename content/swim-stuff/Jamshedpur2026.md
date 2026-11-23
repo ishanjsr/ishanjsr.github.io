@@ -1,7 +1,7 @@
 ---
 title: "Jamshedpur Swimathon 2.0: A comfort race"
 description: "5k"
-date: 2026-12-22
+date: 2026-11-22
 draft: false
 cover:
   image: "/images/swim/jamshedpur_2026_1.jpeg"
