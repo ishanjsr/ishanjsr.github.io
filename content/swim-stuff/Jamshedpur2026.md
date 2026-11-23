@@ -12,7 +12,7 @@ cover:
 
 ## Jamshedpur 2026
 
-Most of us have a designated comfort food. It’s typically the one we grew up eating. It is not particularly lavish or fancy, but it’s soothing and lifts the spirits like no other food can. Jamshedpur swimathon is my comfort race! 
+Most of us have a designated comfort food. It’s typically the one we grew up eating. It is not particularly lavish or fancy, but it’s soothing and lifts the spirits like no other food can. Jamshedpur swimathon is my comfort race - after all, I grew up in this lovely city! 
 
 This was the second edition of the swimathon organized by the Tata Steel Adventure Foundation. The race is held in Dimna Lake, just outside the city of Jamshedpur, surrounded by the Dalma hills. The hills covered by fog on all sides, and the lake in between, make for a stunning view. 
 
@@ -25,11 +25,11 @@ My brain also needs some time to adjust to the lake setting. The water is dark; 
 
 The race-day format of the Jamshedpur Swimathon is unique. In most races, the longest distances start first; here, it’s the opposite – they start with 500m, then 1k and so on, and 5k is the last to start. The 5k was scheduled to start at 8:30 am. This helps so much! We can get full sleep, have a slightly early breakfast, and we don't have to carb-load at an ungodly hour. 
 
-I arrived at the venue at 7:30 am, collected my bib, met fellow swimmers, and got comfortable. Following the coach's advice from last year, I went for a little jog before my race to raise my heart rate. It was a rolling start, 3 people at a time. The race started: Garmin buttons were pressed, a glance at the audience to see if there were any familiar faces, and splash. 
+I arrived at the venue at 7:30 am, collected my bib, met fellow swimmers, and got comfortable. Following the coach's advice from last year, I went for a little jog before my race to raise my heart rate. It was a rolling start, 3 people at a time. The race started: Garmin buttons were pressed, a glance at the audience to see if there were any familiar faces, and a splash was made. 
 
 The first few meters were hard. The water was cold, and I struggled to get my breathing right. We had to go straight for about 250 meters, and then take a left turn. I just could not go straight enough and ended up wasting time. 
 
-In open water, to know where we are going, we sight. As in, we raise our heads just a little bit and sight some object to know we are on the right track. When we sight using what’s known as ‘crocodile eyes’, we skip the breath for that stroke. So instead of every two, we end up breathing every four strokes when sighting. This is not particularly hard, but it is hard if you are struggling to get the breathing right in the first place. To be honest, I can sight, but this is not very well integrated into my stroke yet.
+In open water, to know where we are going, we sight, as in, we raise our heads just a little bit and sight some object to know we are on the right track. When we sight using what’s known as ‘crocodile eyes’, we skip the breath for that stroke. So instead of every two, we end up breathing every four strokes when sighting. This is not particularly hard, but it is hard if you are struggling to get the breathing right in the first place. To be honest, I can sight, but this is not very well integrated into my stroke yet.
 
 I was getting annoyed as I saw myself drifting from the straight line. I also suddenly felt a wave of negative thoughts crowd my head. I don’t remember what they were or what happened. But I did not feel good. And then I had to pee. Yes, open water swimmers pee in the open water! I tried to visualise that all negative energy is leaving with my body.  It worked. I reached the 250-meter buoy, turned left, and the swim was on. 
 
@@ -38,7 +38,7 @@ The water was a little choppy. It wasn’t very troubling, but it was not very s
 ![](/images/swim/jamshedpur_2026_2.jpeg)
 
 
-We had to take two loops of 2.5k each. I remember taking a gel at one end of the lake after about 1900 meters, and another one around 3300 meters, and water from the raft to go along with that. I went with the larger (45-gram) Unived gels this time, and it worked well for me. My fueling was swift – pull the gel from the shorts around the thigh, make sure the pouch was placed on the raft and didn’t fall in the lake, take a quick gulp of water and move on. It must have taken about 40-45 seconds. Very pleased with this. 
+We had to take two loops of 2.5k each. I remember taking an energy gel at one end of the lake after about 1900 meters, and another one around 3300 meters, and water from the raft to go along with that. I went with the larger (45-gram) Unived gels this time, and it worked well for me. My fueling was swift – pull the gel from the shorts around the thigh, make sure the pouch was placed on the raft and didn’t fall in the lake, take a quick gulp of water and move on. It must have taken about 40-45 seconds. Very pleased with this. 
 
 The race was long enough for me to experience both clouds and clear skies. When it was cloudy, I started to question the choice of my goggles and regretted not going in with clear ones. And then the sun came out, and I was glad that I had some protection from the brightness. 
 
